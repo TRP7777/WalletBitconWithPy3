@@ -289,3 +289,5 @@ This is handled automatically by the fallback system. The error is caught and re
 
 That's the power of smart pywallet - eliminating complexity while maximizing results.
 
+When I've tested several time, always was it successful.(from readdev)
+
